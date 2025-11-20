@@ -193,6 +193,6 @@ Developed by:
 **Manouchehr Zadahmad Jafarlou**
 Lead Software Engineering Manager, TEC
 
-✉️ Email: [manouchehrzj@gmail.com](mailto:manouchehrzj@gmail.com)
-🔗 GitHub: [https://github.com/manouchehrzj](https://github.com/manouchehrzj)
+✉️ Email: [Zadahmad@gmail.com](mailto:Zadahmad@gmail.com)
+🔗 GitHub: [https://github.com/Zadahmad](https://github.com/Zadahmad) 
 
