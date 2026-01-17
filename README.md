@@ -184,15 +184,15 @@ rfi-semantic-similarity/
 └── docker-compose.yml
 ```
 
----
 
 ## 📬 Contact
 
 Developed by:
 
 **Manouchehr Zadahmad Jafarlou**
-Lead Software Engineering Manager, TEC
 
-✉️ Email: [Zadahmad@gmail.com](mailto:Zadahmad@gmail.com)
-🔗 GitHub: [https://github.com/Zadahmad](https://github.com/Zadahmad) 
+✉️ Email: zadahmad@gmail.com  
+🔗 GitHub: [github.com/zadahmad](https://github.com/zadahmad)
+
+---
 
