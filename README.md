@@ -184,7 +184,7 @@ rfi-semantic-similarity/
 └── docker-compose.yml
 ```
 
-
+---
 ## 📬 Contact
 
 Developed by:
